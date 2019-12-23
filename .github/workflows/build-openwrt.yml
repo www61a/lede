@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: OpenWrt-Ci
+name: OpenWrt-CI
 
 on: 
   release:
